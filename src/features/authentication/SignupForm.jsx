@@ -4,7 +4,7 @@ import Form from '../../ui/Form';
 import FormRow from '../../ui/FormRow';
 import Input from '../../ui/Input';
 import SpinnerMini from '../../ui/SpinnerMini';
-import { useSignUp } from './useSIgnUp';
+import { useSignUp } from './useSignUp';
 
 // Email regex: /\S+@\S+\.\S+/
 
